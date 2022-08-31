@@ -2,7 +2,7 @@
 
 My name is Alan!
 
-I am a frontend engineer with 2+ years based in Jakarta, Indonesia.
+I am a frontend engineer with 2+ years of experience based in Jakarta, Indonesia.
 
 Currently working as Lead Frontend Engineer at [RevivalTV](https://github.com/orgs/Revival-Dev/)
 

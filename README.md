@@ -26,6 +26,11 @@ Currently working as Lead Frontend Engineer at [RevivalTV](https://github.com/or
 ### Latest Blog Post
 
 <!-- BLOG-POST-LIST:START -->
+- [How should you commit your code?](https://alanh.dev/blog/how-should-you-commit-your-code)
+- [Getting Started with Github Action](https://alanh.dev/blog/getting-started-with-github-action)
+- [My Journey on Revival TV as a Frontend Engineer](https://alanh.dev/blog/my-journey-on-revival-tv-as-a-frontend-engineer)
+- [Documenting UI Components with Storybook](https://alanh.dev/blog/documenting-ui-component-with-storybook)
+- [Development Setup I Should Have Done](https://alanh.dev/blog/development-setup-i-should-have-done)
 <!-- BLOG-POST-LIST:END -->
 
 [More articles ...](https://alanh.dev/blog)

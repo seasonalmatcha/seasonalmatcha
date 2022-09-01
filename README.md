@@ -10,16 +10,26 @@ Currently working as Lead Frontend Engineer at [RevivalTV](https://github.com/or
 
 ### Stacks and tools I use
 
-<div style="display: flex">
-  <img alt="typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="32" height="32" />
-  <img alt="next js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="32" height="32" />
-  <img alt="react js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="32" height="32" />
-  <img alt="vue js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="32" height="32" />
-  <img alt="nuxt js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" width="32" height="32" />
-  <img alt="tailwind css" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="32" height="32" />
-  <img alt="sass" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="32" height="32" />
-  <img alt="storybook" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/storybook/storybook-original.svg" width="32" height="32" />
-</div>
+![](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Next%20JS-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![](https://img.shields.io/badge/React%20JS-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![](https://img.shields.io/badge/Vue%20JS-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![](https://img.shields.io/badge/Nuxt%20JS-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![](https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
+![](https://img.shields.io/badge/Eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white)
+![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 ---
 
@@ -33,7 +43,7 @@ Currently working as Lead Frontend Engineer at [RevivalTV](https://github.com/or
 - [Development Setup I Should Have Done](https://alanh.dev/blog/development-setup-i-should-have-done)
 <!-- BLOG-POST-LIST:END -->
 
-[More articles ...](https://alanh.dev/blog)
+More on [my website](https://alanh.dev)
 
 ---
 
@@ -52,5 +62,9 @@ Currently working as Lead Frontend Engineer at [RevivalTV](https://github.com/or
 
   <a href="https://www.linkedin.com/in/alanhabibullah/">
     <img alt="instagram" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="mailto:me@alanh.dev">
+    <img alt="email" src="https://img.shields.io/badge/-Email-F06B66?style=for-the-badge&logo=mailgun&logoColor=white" />
   </a>
 </div>

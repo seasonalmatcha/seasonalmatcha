@@ -51,8 +51,6 @@ More on [my website](https://alanh.dev)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=seasonalmatcha&layout=compact&hide_border=true&theme=onedark)
 
-![](https://github-readme-stats.vercel.app/api?username=seasonalmatcha&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=onedark)
-
 ---
 
 <div style="display: flex">

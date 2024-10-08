@@ -4,7 +4,7 @@ My name is Alan!
 
 I am a full-stack engineer with 3+ years of experience based in Jakarta, Indonesia.
 
-Currently working as Lead Engineer at [Gaweku](https://gaweku.co.id/)
+Currently working as Lead Engineer at [Peoplyee](https://peoplyee.com/)
 
 ---
 

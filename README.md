@@ -2,34 +2,32 @@
 
 My name is Alan!
 
-I am a full-stack engineer with 3+ years of experience based in Jakarta, Indonesia.
+I am a full-stack engineer with 4+ years of experience based in Jakarta, Indonesia.
 
-Currently working as Lead Engineer at [Peoplyee](https://peoplyee.com/)
+Currently working as Lead Engineer at [Peoplyee](https://peoplyee.com/).
+
+Probably not really active on github cause my company uses Gitlab.
+
+But I still use Github for my own personal projects.
 
 ---
 
-### Stacks and tools I use
+### Tech stack?
 
-![](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/Next%20JS-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![](https://img.shields.io/badge/React%20JS-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![](https://img.shields.io/badge/Vue%20JS-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![](https://img.shields.io/badge/Nuxt%20JS-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
-![](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
-![](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![](https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
-![](https://img.shields.io/badge/Eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
-![](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white)
-![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+- Golang - backend and microservises
+- Typescript - frontend and some backend. React and its ecosystem for frontend, express.js for backend
+- Flutter - mobile app. Yes, I do some mobile development as well
+- RabbitMQ - for queuing system and asynchronous communication
+- Valkey - caching strategy
+- AWS, GCP, Docker - yeah, have to take care the infrastructure as well
+
+---
+
+### OS, text editor, and other tools?
+
+Linux + Neovim + Tmux + Window Manager = 👌
+
+Although still use MacOS, mostly because I need it to build iOS apps
 
 ---
 
@@ -45,11 +43,7 @@ Currently working as Lead Engineer at [Peoplyee](https://peoplyee.com/)
 
 More on [my website](https://alanh.dev)
 
----
-
-### Github Stats
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=seasonalmatcha&layout=compact&hide_border=true&theme=onedark)
+Probably won't update lol
 
 ---
 
